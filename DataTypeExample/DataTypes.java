@@ -30,6 +30,7 @@ void main() {
     boolean isPass = true;
     boolean isLate = false;
 
+    IO.println("Data Type Examples:");
     IO.println("age = " + age);
     IO.println("temperature = " + temperature);
     IO.println("studentCount = " + studentCount);
